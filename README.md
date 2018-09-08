@@ -1,2 +1,2 @@
-# apcstest
+# APCS Test
 Repository setup test
